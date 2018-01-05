@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Credits](credits.md)
+* [Allergoki](allergoki.md)
 
 ## CHPTER 0
 
