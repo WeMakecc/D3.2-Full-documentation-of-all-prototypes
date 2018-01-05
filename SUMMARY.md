@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Credits](credits.md)
 * [Allergoki](allergoki.md)
+* [Breathing Game](breathing-game.md)
 
 ## CHPTER 0
 
