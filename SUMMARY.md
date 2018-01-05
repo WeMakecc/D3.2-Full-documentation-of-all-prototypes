@@ -5,6 +5,7 @@
 * [Allergoki](allergoki.md)
 * [Breathing Game](breathing-game.md)
 * [Rehub](rehub.md)
+* [Voice Instruments](voice-instruments.md)
 
 ## CHPTER 0
 
