@@ -4,6 +4,7 @@
 * [Credits](credits.md)
 * [Allergoki](allergoki.md)
 * [Breathing Game](breathing-game.md)
+* [Rehub](rehub.md)
 
 ## CHPTER 0
 
