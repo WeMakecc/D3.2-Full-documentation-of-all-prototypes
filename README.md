@@ -84,7 +84,7 @@ These two projects have this "special" status since WeMake community and staff w
 
 [OPEN RAMPETTE](/chapter-2/rampette.md) was developed during year 2017, addressing the problem of accessibility to Milan commercial activities (stores, restaurants, cafès, exc.). It was carried out as a cycle of co-design sessions, together with citizens and shop owners, with a specific focus on two main aspects: the complex regularization procedure for shops’ accessibility and the inefficient temporary ramp call system.
 
-The section [Community Prototype](/chapter-3/community-prototype.md)shows some screenshots displaying the documentation websites of 4 projects that took part in the opencare Maker in Residence (MIR), a special residency programme organized by WeMake  and using WeMake fablab as main location.
+The section [Community Prototype](/chapter-3/community-prototype.md) shows some screenshots displaying the documentation websites of 4 projects that took part in the opencare Maker in Residence (MIR), a special residency programme organized by WeMake  and using WeMake fablab as main location.
 
 Preceded by a Call for Makers, the MIR took place between April and September 2017 and involved 6 different groups of makers (national and international), WeMake staff, WeMake offline community and opencare online community.
 
