@@ -6,8 +6,9 @@
 
 #### ABOUT
 
-![image alt text](/assets/image_7.png)
+![image alt text](/assets/image_7.png)(http://inpe.opencare.cc/about)
+
 
 #### BLOG
 
-![image alt text](/assets/image_8.png)
+![image alt text](/assets/image_8.png)(http://inpe.opencare.cc/blog)
