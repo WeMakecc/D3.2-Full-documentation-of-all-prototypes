@@ -51,3 +51,37 @@ A tutorial is a method of transferring knowledge and may be used as a part of a 
 Here it provides a direct link to tutorials, with title and brief description, in order to support other people building or developing the project.
 
 References: [https://en.wikipedia.org/wiki/Tutorial](https://en.wikipedia.org/wiki/Tutorial)
+
+#### BLOG
+
+A blog (a truncation of the expression "weblog") is a discussion or informational website published on the World Wide Web consisting of discrete, often informal diary-style text entries ("posts"). Posts are typically displayed in reverse chronological order, so that the most recent post appears first, at the top of the web page.
+
+In this section it shows the overview of three latest posts, with title and brief description.
+
+References: [https://en.wikipedia.org/wiki/Blog](https://en.wikipedia.org/wiki/Blog)
+
+#### LICENSE
+
+It refers to the permission to use a software on non-exclusive basis, and subject to the listed conditions. A software license does not automatically transfer the ownership of the software to the buyer and its purchase price, in effect, is a one time rental fee.
+
+In this section it displays pecifications about the license of the Project.
+
+References: [http://www.businessdictionary.com/definition/software-license.html](http://www.businessdictionary.com/definition/software-license.html)
+
+#### CREDITS
+
+Section with information about who is maintaining and/or funding the project.
+
+#### DISQUS
+
+Disqus (pronounced discuss) is a worldwide blog comment hosting service for web sites and online communities that use a networked platform. The company's platform includes various features, such as social integration, social networking, user profiles, spam and moderation tools, analytics, email notifications, and mobile commenting.
+
+Section where visitors can leave a comment about the project or start / join a conversation.
+
+#### FOOTER
+
+The bottom section of a webpage is also known as a footer. This area typically contains the name of the company or organization that publishes the website, along with relevant copyright information. Some websites may also include basic navigation links, such as "About Us," "Contact," and "Help." Corporate website footers often include additional links to "Terms of Use," "Privacy Guidelines," and "Advertising" pages as well.
+
+Here it shows the name of the company or organization that publishes the website, along with relevant copyright information.
+
+References: [https://techterms.com/definition/footer](https://techterms.com/definition/footer)
