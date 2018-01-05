@@ -1,6 +1,6 @@
 ### ABOUT
 
-![image alt text](assets/image_4.png)
+![image alt text](/assets/image_4.png)
 
 This page presents the original information about the Project. It may be composed by a representative image of the Project, a brief description, a description about the project development and an introduction of the team members especially of whom participated in the project.
 
