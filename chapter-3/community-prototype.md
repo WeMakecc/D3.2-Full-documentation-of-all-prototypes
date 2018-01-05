@@ -22,7 +22,3 @@ Among the variety of activities organized during the Maker in Residence, it is p
 
 * testing and displaying the prototypes to a proactive audience.
 
-### [Community Prototype](chapter-3/community-prototype.md)
-* [Allergoki](chapter-3/allergoki.md)
-* [Breathing Game](chapter-3/breathing-game.md)
-* [Rehub](chapter-3/rehub.md)

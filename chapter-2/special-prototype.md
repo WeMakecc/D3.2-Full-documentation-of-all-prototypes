@@ -8,9 +8,5 @@ These two projects have this "special" status since WeMake community and staff w
 
 [OPEN RAMPETTE](/chapter-2/rampette.md) was developed during year 2017, addressing the problem of accessibility to Milan commercial activities (stores, restaurants, cafès, exc.). It was carried out as a cycle of co-design sessions, together with citizens and shop owners, with a specific focus on two main aspects: the complex regularization procedure for shops’ accessibility and the inefficient temporary ramp call system.
 
-### [Special Prototype](chapter-2/special-prototype.md)
-* [Inpe](chapter-2/inpe.md)
-* [Open Rampette](chapter-2/rampette.md)
-
 
 
