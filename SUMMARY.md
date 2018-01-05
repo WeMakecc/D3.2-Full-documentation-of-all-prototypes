@@ -5,6 +5,9 @@
 * [Content architecture](content-architecture.md)
 * [Credits](credits.md)
 * [Home Page](home-page.md)
+* [Pages](pages.md)
+* [About](about.md)
+* [Blog](blog.md)
 
 ## CHPTER 0
 
