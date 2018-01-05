@@ -130,6 +130,3 @@ Chiara Ferrero</td>
     <td></td>
   </tr>
 </table>
-
-
-Summary
