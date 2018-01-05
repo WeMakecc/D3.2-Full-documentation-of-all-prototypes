@@ -20,6 +20,6 @@ Each prototype repository contains:
 
 Github has also the possibility to integrate other useful sections as Projects (to manage task and manage the collaborative work) and Issue tracker (to solve bugs or to develop new features)
 
-![image alt text](assets/image_1.jpg)
+![image alt text](./assets/image_1.jpg)
 
 In the following pages some screenshot and information about the sections (home, about, blog/news) and the content about the prototype.
