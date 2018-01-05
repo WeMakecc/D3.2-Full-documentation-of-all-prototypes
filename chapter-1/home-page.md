@@ -1,6 +1,6 @@
 ### HOMEPAGE
 
-![image alt text](assets/image_2.png)
+![](/assets/image_2.png)
 
 An home page or a start page is the initial or main web page of a website or a browser. The initial page of a website is sometimes called main page as well. A home page is generally the main page a visitor navigating to a website from a web search engine will see, and it may also serve as a landing page to attract visitors. The home page is used to facilitate navigation to other pages on the site by providing links to prioritized and recent articles and pages, and possibly a search box. For example, a news website may present headlines and first paragraphs of top stories, with links to full articles, in a dynamic web page that reflects the popularity and recentness of stories.
 
