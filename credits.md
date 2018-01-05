@@ -130,3 +130,6 @@ Chiara Ferrero</td>
     <td></td>
   </tr>
 </table>
+
+![image alt text](assets/image_0.png)
+
