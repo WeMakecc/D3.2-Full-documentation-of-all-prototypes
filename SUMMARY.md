@@ -10,6 +10,7 @@
 * [Blog](blog.md)
 * [Special Prototype](special-prototype.md)
 * [Inpe](inpe.md)
+* [Open Rampette](rampette.md)
 
 ## CHPTER 0
 
