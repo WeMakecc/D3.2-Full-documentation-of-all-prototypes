@@ -147,6 +147,8 @@ Among the variety of activities organized during the Maker in Residence, it is p
 
 * [Credits](credits.md)
 
+---
+
 #### Contributors:
 
 Chiara Ferrero
@@ -155,6 +157,7 @@ Alessandro Contini
 
 Costantino Bongiorno
 
+---
 
 [WeMake | fablab makersapace](http://wemake.cc):  is based in Milan (Italy) and provides a series of innovative services and training to the creative community of the region in the field of digital and traditional manufacturing, high-value technologies and access to a fully equipped Fab Lab. We foster the development of a new model of designer-producer (maker) and small-scale company by facilitating the engineering phase, the rapid iteration of design solutions, the on-demand production of physical/digital artifacts.
 
@@ -167,7 +170,7 @@ Copyright [WeMake](http://wemake.cc)
 
 ---
 
-![](https://github.com/opencarecc/OpenCarePlaybook/blob/master/OC-img_logo_ce-en-rvb-hr.jpg)
+![](https://raw.githubusercontent.com/opencarecc/OpenCarePlaybook/master/OC-img_logo_ce-en-rvb-hr.jpg)
 
 This project has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No 688670.
 
@@ -180,4 +183,4 @@ The book has been built on top of the [gitbook](http://gitbook.com) service.
 
 -----
 
-*THANKS!*
+THANKS!
