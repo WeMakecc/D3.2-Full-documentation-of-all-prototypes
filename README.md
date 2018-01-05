@@ -2,11 +2,11 @@
 
 This document is to be intended as a description of the Deliverable 3.2: Full documentation of all prototypes.
 
-One of the key aims of the Opencare project is to collaboratively develop a how-to guide to document activities in the field or in the lab/makerspace in such a way that documentation can be fed back to the online conversation.
+One of the key aims of the [**opencare**](http://opencare.cc) project is to collaboratively develop a how-to guide to document activities in the field or in the lab/makerspace in such a way that documentation can be fed back to the online conversation.
 
 The full documentation of the prototypes developed is publicly released on Github as repositories of the "organization" opencarecc ([https://github.com/opencarecc](https://github.com/opencarecc)).
 
-The deliverable 3.2 is composed of source files, auxiliary design files, bill of materials and list of suppliers, software and firmware, multimedia (photos and videos), instructions and explanations.
+The **deliverable 3.2** is composed of source files, auxiliary design files, bill of materials and list of suppliers, software and firmware, multimedia (photos and videos), instructions and explanations.
 
 Information and updates are related to the actual prototypes developed (stage of implementation, debugging and evaluations, usability testing, executive design review and redesign, engagement of the diverse communities involved).
 
@@ -82,7 +82,7 @@ All the prototype websites were "forked" from the starting base template.
 
 The opencare ([http://opencare.cc/](http://opencare.cc/)) website is using the same technical structure  and layout of the prototypes website with a small modification to improve the home page.
 
-## Special Protype
+## Special Prototype
 
 The section [Special Protype](/chapter-2/special-prototype.md "Special Protype") hosts some screenshots taken from the documentation websites of two "special" prototypes:  INPE and OPEN RAMPETTE.
 
