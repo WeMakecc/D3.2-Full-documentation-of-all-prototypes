@@ -27,6 +27,5 @@
 
 ## Credits
 
-* [chapter 0](/D3.2 Full documentation of all prototypes.md)
 * [Credits](credits.md)
 

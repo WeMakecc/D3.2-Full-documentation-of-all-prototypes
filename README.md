@@ -116,3 +116,56 @@ Among the variety of activities organized during the Maker in Residence, it is p
 
 * testing and displaying the prototypes to a proactive audience.
 
+# Summary
+
+* [Introduction](README.md)
+
+## How we documented the prototypes
+
+* [How we documented the prototypes](chapter-1/how-we-documented-the-prototypes.md)
+* [Content architecture](chapter-1/content-architecture.md)
+* [Home Page](chapter-1/home-page.md)
+* [Pages](chapter-1/pages.md)
+* [About](chapter-1/about.md)
+* [Blog](chapter-1/blog.md)
+
+## Special Prototype
+
+* [Special Prototype](chapter-2/special-prototype.md)
+* [Inpe](chapter-2/inpe.md)
+* [Open Rampette](chapter-2/rampette.md)
+
+## Community Prototype
+
+* [Community Prototype](chapter-3/community-prototype.md)
+* [Allergoki](chapter-3/allergoki.md)
+* [Breathing Game](chapter-3/breathing-game.md)
+* [Rehub](chapter-3/rehub.md)
+* [Voice Instruments](chapter-3/voice-instruments.md)
+
+## Credits
+
+* [Credits](credits.md)
+
+#### Contributors:
+
+Chiara Ferrero
+
+Alessandro Contini
+
+Costantino Bongiorno
+
+
+[WeMake | fablab makersapace](http://wemake.cc):  is based in Milan (Italy) and provides a series of innovative services and training to the creative community of the region in the field of digital and traditional manufacturing, high-value technologies and access to a fully equipped Fab Lab. We foster the development of a new model of designer-producer (maker) and small-scale company by facilitating the engineering phase, the rapid iteration of design solutions, the on-demand production of physical/digital artifacts.
+
+---
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" width="100" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
+---
+
+![](OC-img_logo_ce-en-rvb-hr.jpg)
+
+This project has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No 688670.
+
+The book has been built on top of the [gitbook](http://gitbook.com) service.
+
