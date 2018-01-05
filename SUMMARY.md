@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [How we documented the prototypes](how-we-documented-the-prototypes.md)
 * [Credits](credits.md)
+* [Content architecture](content-architecture.md)
 
 ## CHPTER 0
 
