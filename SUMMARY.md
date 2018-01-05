@@ -1,13 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-* [Credits](credits.md)
-* [Allergoki](allergoki.md)
-* [Breathing Game](breathing-game.md)
-* [Rehub](rehub.md)
-* [Voice Instruments](voice-instruments.md)
 
-## CHPTER 0
+## How we documented the prototypes
 
 * [How we documented the prototypes](how-we-documented-the-prototypes.md)
 * [Content architecture](content-architecture.md)
@@ -15,9 +10,8 @@
 * [Pages](pages.md)
 * [About](about.md)
 * [Blog](blog.md)
-* [chapter 0](/D3.2 Full documentation of all prototypes.md)
 
-## CHAPTER 1
+## Special Prototype
 
 * [Special Prototype](special-prototype.md)
 * [Inpe](inpe.md)
@@ -25,8 +19,16 @@
 * [test page](test-page.md)
 * [chapter 1](/chapter-1/README.md)
 
-## CHPTER 2
+## Community Prototype
 
 * [Community Prototype](community-prototype.md)
-* [chapter 2](/chapter-2/README.md)
+* [Allergoki](allergoki.md)
+* [Breathing Game](breathing-game.md)
+* [Rehub](rehub.md)
+* [Voice Instruments](voice-instruments.md)
+
+## Credits
+
+* [chapter 0](/D3.2 Full documentation of all prototypes.md)
+* [Credits](credits.md)
 
