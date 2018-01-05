@@ -8,6 +8,8 @@
 * [Pages](pages.md)
 * [About](about.md)
 * [Blog](blog.md)
+* [Special Prototype](special-prototype.md)
+* [Inpe](inpe.md)
 
 ## CHPTER 0
 
