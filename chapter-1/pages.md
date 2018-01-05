@@ -1,6 +1,6 @@
 ### PAGES
 
-![image alt text](assets/image_3.png)
+![](/assets/image_3.png)
 
 They can be dedicated to specific topics, such as different areas or characteristics of the same project, or different projects.
 
