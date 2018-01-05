@@ -2,7 +2,7 @@
 
 #### HOME
 
-[![image alt text](/assets/image_9.png)](http://rampette.opencare.cc/)
+[![](/assets/image_9.png)](http://rampette.opencare.cc/)
 
 #### ABOUT
 
