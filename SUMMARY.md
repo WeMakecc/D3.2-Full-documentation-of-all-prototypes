@@ -1,8 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-* [test page](test-page.md)
 * [How we documented the prototypes](how-we-documented-the-prototypes.md)
+* [Credits](credits.md)
 
 ## CHPTER 0
 
@@ -10,6 +10,7 @@
 
 ## CHAPTER 1
 
+* [test page](test-page.md)
 * [chapter 1](/chapter-1/README.md)
 
 ## CHPTER 2
