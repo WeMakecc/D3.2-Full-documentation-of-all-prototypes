@@ -104,7 +104,7 @@ Prototypes documentation is publicly displayed as collection of **websites** lin
 
     * [http://breathinggames.opencare.cc/](http://breathinggames.opencare.cc/)
 
-5. **REHUB **
+5. **REHUB**
 
     * [http://rehub.opencare.cc/](http://rehub.opencare.cc/)
 
