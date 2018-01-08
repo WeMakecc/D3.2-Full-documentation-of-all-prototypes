@@ -64,7 +64,7 @@ All the content above is publicly available as "source code" and contained in  t
 
     * [https://github.com/opencarecc/inpe](https://github.com/opencarecc/inpe)
 
-2. **OPEN RAMPETTE **
+2. **OPEN RAMPETTE**
 
     * [https://github.com/opencarecc/rampette](https://github.com/opencarecc/rampette)
 
