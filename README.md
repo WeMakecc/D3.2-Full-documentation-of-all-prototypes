@@ -10,9 +10,42 @@ The **deliverable 3.2** is composed of source files, auxiliary design files, bil
 
 Information and updates are related to the actual prototypes developed (stage of implementation, debugging and evaluations, usability testing, executive design review and redesign, engagement of the diverse communities involved).
 
+# Summary
+
+* [Introduction](README.md)
+
+## How we documented the prototypes
+
+* [How we documented the prototypes](chapter-1/how-we-documented-the-prototypes.md)
+* [Content architecture](chapter-1/content-architecture.md)
+* [Home Page](chapter-1/home-page.md)
+* [Pages](chapter-1/pages.md)
+* [About](chapter-1/about.md)
+* [Blog](chapter-1/blog.md)
+
 ## Special Prototype
 
-The section [Special Protype](/chapter-2/special-prototype.md "Special Protype") hosts some screenshots taken from the documentation websites of two "special" prototypes:  INPE and OPEN RAMPETTE.
+* [Special Prototype](chapter-2/special-prototype.md)
+* [Inpe](chapter-2/inpe.md)
+* [Open Rampette](chapter-2/rampette.md)
+
+## Community Prototype
+
+* [Community Prototype](chapter-3/community-prototype.md)
+* [Allergoki](chapter-3/allergoki.md)
+* [Breathing Game](chapter-3/breathing-game.md)
+* [Rehub](chapter-3/rehub.md)
+* [Voice Instruments](chapter-3/voice-instruments.md)
+
+## Credits
+
+* [Credits](credits.md)
+
+---
+
+## Special Prototype
+
+The section [Special Prototype](/chapter-2/special-prototype.md "Special Prototype") hosts some screenshots taken from the documentation websites of two "special" prototypes:  INPE and OPEN RAMPETTE.
 
 These two projects have this "special" status since WeMake community and staff were directly involved in managing the local co-design and development processes. Both prototypes, INPE and OPENRAMPETTE, are part of a wider activity carried out in collaboration with City of Milan. They included an assessment of the community’s needs and the redesigning of the city accessibility policy, rewired in a co-design process after the underperformance of City of Milan's top down attempt taking place in the previous two years. (see Technical Review for details)
 
@@ -127,39 +160,6 @@ All the prototype websites were "forked" from the starting base template.
 [https://opencarecc.github.io/MicroWebsiteTemplate](https://opencarecc.github.io/MicroWebsiteTemplate)
 
 The opencare ([http://opencare.cc/](http://opencare.cc/)) website is using the same technical structure  and layout of the prototypes website with a small modification to improve the home page.
-
----
-
-# Summary
-
-* [Introduction](README.md)
-
-## How we documented the prototypes
-
-* [How we documented the prototypes](chapter-1/how-we-documented-the-prototypes.md)
-* [Content architecture](chapter-1/content-architecture.md)
-* [Home Page](chapter-1/home-page.md)
-* [Pages](chapter-1/pages.md)
-* [About](chapter-1/about.md)
-* [Blog](chapter-1/blog.md)
-
-## Special Prototype
-
-* [Special Prototype](chapter-2/special-prototype.md)
-* [Inpe](chapter-2/inpe.md)
-* [Open Rampette](chapter-2/rampette.md)
-
-## Community Prototype
-
-* [Community Prototype](chapter-3/community-prototype.md)
-* [Allergoki](chapter-3/allergoki.md)
-* [Breathing Game](chapter-3/breathing-game.md)
-* [Rehub](chapter-3/rehub.md)
-* [Voice Instruments](chapter-3/voice-instruments.md)
-
-## Credits
-
-* [Credits](credits.md)
 
 ---
 
